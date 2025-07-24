@@ -1,6 +1,8 @@
 ## Overview
 Mijam is a clean, responsive theme designed for Typecho. This template offers a minimalist aesthetic with robust functionality for bloggers and content creators.
 
+![Mijam theme preview](https://github.com/abdulhalim/Mijam/blob/main/screenshot.png?raw=true)
+
 ## Key Features
 
 1. **Contemporary Design**:
